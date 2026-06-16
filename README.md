@@ -126,17 +126,17 @@ Opción: 3
 
 ## 👥 Integrantes
 
-| Nombre | Legajo |
-|--------|--------|
-| Thiago Lugo | [Legajo] |
-| Lautaro Torres | [Legajo] |
+| Nombre |  
+|--------|
+| Thiago Lugo |
+| Lautaro Torres |
 
 ---
 
 ## 🎥 Video demostrativo
 
 🔗 video Thiago Lugo: https://youtu.be/niHa6wxRCNQ
-🔗 video Lautaro Torres: https://youtu.be/FIeYS6dK6Oc
+🔗 video Lautaro Torres: https://youtu.be/UvDanUN2GYA
 
 ## 📄 Documentación PDF
 
