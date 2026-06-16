@@ -128,15 +128,16 @@ Opción: 3
 
 | Nombre | Legajo |
 |--------|--------|
-| [Nombre Apellido] | [Legajo] |
-| [Nombre Apellido] | [Legajo] |
+| Thiago Lugo | [Legajo] |
+| Lautaro Torres | [Legajo] |
 
 ---
 
 ## 🎥 Video demostrativo
 
-🔗 [Insertar link del video aquí]
+🔗 video Thiago Lugo: https://youtu.be/niHa6wxRCNQ
+🔗 video Lautaro Torres: https://youtu.be/FIeYS6dK6Oc
 
 ## 📄 Documentación PDF
 
-🔗 [Insertar link al PDF aquí]
+🔗 https://word.cloud.microsoft/open/onedrive/?docId=63937741BF076043%21s40d2905e8ea54b82a0e2fc041ee78412&driveId=63937741BF076043
