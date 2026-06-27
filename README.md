@@ -135,9 +135,9 @@ Opción: 3
 
 ## 🎥 Video demostrativo
 
-🔗 video Thiago Lugo: https://youtu.be/niHa6wxRCNQ
-🔗 video Lautaro Torres: https://youtu.be/UvDanUN2GYA
+🔗 video de Lautaro Torres y Thiago Lugo: https://youtu.be/qnj67ThbZwM
+
 
 ## 📄 Documentación PDF
 
-🔗 https://word.cloud.microsoft/open/onedrive/?docId=63937741BF076043%21s40d2905e8ea54b82a0e2fc041ee78412&driveId=63937741BF076043
+🔗 
